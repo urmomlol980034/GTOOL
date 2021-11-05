@@ -4,7 +4,7 @@
 This is a multi tool including hacks how to use will be down bellow. This is the first  public GavinRepls project to contain hacks. This new hack CAN BE used out of bounds to contain non public (Private) information witch IS ilegal. Use the hack leagly if you do anything illeagal I am not responsible. There is also the GCALC lite witch contains free equation where you can type your own equation. GTOOL also contains a fun rock paper sizors game (My bigest project yet)
 
 ### How To Use
-Enter the number that coorisponds with the operation you want to do (Make sure language is Python!)
+Enter the number that coorisponds with the operation you want to do (Make sure the run command is 'python3 main.py' also make sure language is Python!)
 
 - GCALC Lite = 1
 - Rock Paper Sizors = 2
