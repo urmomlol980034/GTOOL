@@ -12,7 +12,7 @@ Enter the number that coorisponds with the operation you want to do (Make sure t
 
 ## Updates 
 New Data Scraper Hack(Grabs information from a wesite that you give)
-- Now wit Color!
+- Now with Color!
 - Ownership now purchaseable.
 - For more info DM at Gavin.smith6890@gmail.com
 ###### GavinRepls© 2020-2021
